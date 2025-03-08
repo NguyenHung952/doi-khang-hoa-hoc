@@ -32,7 +32,6 @@ hoa-hoc-game/
 │── index.html        # File chính chứa giao diện game
 │── styles.css        # File CSS định dạng giao diện
 │── script.js         # Chứa logic game
-│── reactions.js      # Danh sách các phương trình hóa học
 └── README.md         # Mô tả dự án (file này)
 ```
 
