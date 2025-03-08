@@ -46,9 +46,10 @@ Bạn có thể chạy trò chơi trên trình duyệt bằng cách:
 2️⃣ Mở file `index.html` bằng trình duyệt (Chrome, Firefox, Edge, ...).  
 3️⃣ Chơi game ngay! 🎮  
 
-### 🌍 **2. Chạy trực tiếp trên GitHub Pages**  
-Nếu bạn đã triển khai trên GitHub Pages, chỉ cần truy cập:  
-👉 **https://your-username.github.io/hoa-hoc-game/**  
+### 🌍 **2. Chạy trực tiếp trên Google Site**  
+Bạn chỉ cần truy cập:  
+https://sites.google.com/view/mycodinz/%C4%91%E1%BB%91i-kh%C3%A1ng-h%C3%B3a-h%E1%BB%8Dc
+
 
 ---
 
