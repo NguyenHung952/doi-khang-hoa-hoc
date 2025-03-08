@@ -29,10 +29,11 @@
 ## 📂 **Cấu trúc thư mục**  
 ```bash
 hoa-hoc-game/
-│── index.html        # File chính chứa giao diện game
-│── styles.css        # File CSS định dạng giao diện
-│── script.js         # Chứa logic game
-└── README.md         # Mô tả dự án (file này)
+│── index.html       # File HTML chính
+│── styles.css       # File CSS để định dạng
+│── script.js        # File JavaScript điều khiển game
+└── reactions.js     # Danh sách phương trình hóa học (tách riêng)
+
 ```
 
 ---
