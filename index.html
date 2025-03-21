@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Game Thẻ Bài Hóa Học</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>🧪 Game Thẻ Bài Hóa Học 🎮</h1>
+    <button class="btn" onclick="startGame()">🎮 BẮT ĐẦU</button>
+    <button class="btn" onclick="startGame()" id="restartBtn" style="display: none;">🔄 CHƠI LẠI</button>
+
+    <div class="container" id="gameContainer">
+        <h2>🃏 Chọn hai thẻ bài</h2>
+        <div class="cards" id="cardsContainer"></div>
+        <div class="logs" id="logs">📝 Hãy chọn hai nguyên tố để kiểm tra phản ứng!</div>
+    </div>
+
+    <button class="btn" id="hintBtn">💡 Gợi ý</button>
+
+    <script src="reactions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
